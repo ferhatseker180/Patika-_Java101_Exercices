@@ -29,6 +29,11 @@
     <h3 align="center">PROJECT 6: Find Your Horoscope </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/horoscope.PNG" alt="horoscope">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 7: Find Your Chinese Zodiac </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
+</div>
     
 </div>
 
