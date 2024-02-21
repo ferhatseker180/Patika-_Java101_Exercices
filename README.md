@@ -19,6 +19,11 @@
     <h3 align="center">PROJECT 4: Suggesting Activities Based On Temperature </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/activity-by-temperature.PNG" alt="temperature-offer-activity">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 5: Compare Number </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/compare-number.PNG" alt="compare-number">
+</div>
     
 </div>
 
