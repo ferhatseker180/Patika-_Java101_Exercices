@@ -64,6 +64,11 @@
     <h3 align="center">PROJECT 13: Calculate Factorial And Combination </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/combination-calculate.PNG" alt="combination">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 14: Calculate Exponent </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/calculate-exponent.PNG" alt="exponent">
+</div>
     
 </div>
 
