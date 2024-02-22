@@ -70,9 +70,6 @@ public class ATMProject {
                     case 2:
                         System.out.println("Remaining right: " + right);
                         break;
-                    case 3:
-                        System.out.println("Remaining right: " + right);
-                        break;
                 }
 
             }
