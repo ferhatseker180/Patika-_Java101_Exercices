@@ -39,6 +39,11 @@
     <h3 align="center">PROJECT 8: Check Leap Year </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/leap-year.PNG" alt="leap-year">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 9 CO-WORK: Calculate Plane Price </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/plane-price.PNG" alt="plane-price">
+</div>
     
 </div>
 
