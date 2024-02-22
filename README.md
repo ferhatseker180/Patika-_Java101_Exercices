@@ -74,6 +74,11 @@
     <h3 align="center">PROJECT 15: Harmonic Number </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/harmonic-number.PNG" alt="harmonic-number">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 16: Making Diamond With Stars </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/build-star-delta.PNG" alt="diamond-stars">
+</div>
     
 </div>
 
