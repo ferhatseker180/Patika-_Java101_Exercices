@@ -56,8 +56,13 @@
 </div>
 
 <div align="center">
-    <h3 align="center">PROJECT 11: Finding Powers Of Numbers </h3>
+    <h3 align="center">PROJECT 12: Finding Powers Of Numbers </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/multiples-of-number.PNG" alt="powers-of-numbers">
+</div>
+
+<div align="center">
+    <h3 align="center">PROJECT 13: Calculate Factorial And Combination </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/combination-calculate.PNG" alt="combination">
 </div>
     
 </div>
