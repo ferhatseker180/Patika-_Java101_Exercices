@@ -19,7 +19,7 @@ public class FindingMultiplesOfNumber {
         }
 
         // leave a blank
-        System.out.println("");
+        System.out.println("*****");
 
         // Identify numbers that are multiples of 5
         for (int i=1; i<=number; i*=5){
