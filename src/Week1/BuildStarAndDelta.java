@@ -6,7 +6,7 @@ public class BuildStarAndDelta {
     public static void main(String[] args) {
 
         // define variables
-        int number, i, j, k;
+        int number, i, j;
 
         // import scanner and take input
         Scanner input = new Scanner(System.in);
