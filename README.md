@@ -44,6 +44,11 @@
     <h3 align="center">PROJECT 9 CO-WORK: Calculate Plane Price </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/plane-price.PNG" alt="plane-price">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 10: Specific Mod Calculate With Loops </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/find-even-number.PNG" alt="mod-calculate">
+</div>
     
 </div>
 
