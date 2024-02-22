@@ -18,7 +18,7 @@ public class SumSpecificNumber {
             System.out.print("Enter The Number: ");
             number = input.nextInt();
 
-            if (number % 2 == 0 && number % 4 == 0) {
+            if (number % 4 == 0) {
                 sum += number;
             }
 
