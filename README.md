@@ -54,6 +54,11 @@
     <h3 align="center">PROJECT 11: Sum Specific Number With Do-While </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/sum-specific-number.PNG" alt="determine-specific-number">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 11: Finding Powers Of Numbers </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/multiples-of-number.PNG" alt="powers-of-numbers">
+</div>
     
 </div>
 
