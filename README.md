@@ -104,6 +104,11 @@
     <h3 align="center">PROJECT 21: Check Perfect Number Or Not </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/perfect-number.PNG" alt="perfect-number">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 22: Reverse Delta </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/reverse-delta.PNG" alt="reverse-delat">
+</div>
     
 </div>
 
