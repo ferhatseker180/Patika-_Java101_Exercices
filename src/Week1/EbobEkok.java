@@ -6,7 +6,7 @@ public class EbobEkok {
     public static void main(String[] args) {
 
         // define variables
-        int number1, number2, ebob = 1, ekok = 1;
+        int number1, number2, ebob = 1, ekok;
 
         // import scanner
         Scanner input = new Scanner(System.in);
