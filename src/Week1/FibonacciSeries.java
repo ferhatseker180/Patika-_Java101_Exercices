@@ -6,7 +6,7 @@ public class FibonacciSeries {
     public static void main(String[] args) {
 
         // define variable
-        int count, firstNumber=0,secondNumber=1, thirdNumber;
+        int count, firstNumber=0,secondNumber=1;
 
         // import scanner
         Scanner input = new Scanner(System.in);
