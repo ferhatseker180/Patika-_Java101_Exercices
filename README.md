@@ -81,7 +81,12 @@
 </div>
 
 <div align="center">
-    <h3 align="center">PROJECT 17: ATM Project </h3>
+    <h3 align="center">PROJECT 17:Armstrong Number </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/armstrong-number.PNG" alt="armstrong-number">
+</div>
+
+<div align="center">
+    <h3 align="center">PROJECT 18: ATM Project </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/atm-project.PNG" alt="bank-atm">
 </div>
     
