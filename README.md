@@ -99,6 +99,11 @@
     <h3 align="center">PROJECT 20: Find Min And Max Value </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/min-max.PNG" alt="min-max">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 21: Check Perfect Number Or Not </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/perfect-number.PNG" alt="perfect-number">
+</div>
     
 </div>
 
