@@ -94,6 +94,11 @@
     <h3 align="center">PROJECT 19: EBOB-EKOK </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 20: Find Min And Max Value </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/min-max.PNG" alt="min-max">
+</div>
     
 </div>
 
