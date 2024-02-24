@@ -107,7 +107,12 @@
 
 <div align="center">
     <h3 align="center">PROJECT 22: Reverse Delta </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/reverse-delta.PNG" alt="reverse-delat">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/reverse-delta.PNG" alt="reverse-delta">
+</div>
+
+<div align="center">
+    <h3 align="center">PROJECT 23: Fibonacci Series </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/fibonacci-series.PNG" alt="fibonacci">
 </div>
     
 </div>
