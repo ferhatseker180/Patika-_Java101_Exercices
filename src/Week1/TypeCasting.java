@@ -17,7 +17,7 @@ public class TypeCasting {
        int newNumber1 = (int) number2;
         System.out.println("Double Converted to Int: " + newNumber1);
 
-        double newNumber2 = (double) number1;
+        double newNumber2 = number1;
         System.out.println("Int Converted To Double " + newNumber2);
 
 
