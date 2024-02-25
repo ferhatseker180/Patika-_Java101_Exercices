@@ -102,22 +102,22 @@
 
 <div align="center">
     <h3 align="center">PROJECT 21: Check Perfect Number Or Not </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/perfect-number.PNG" alt="perfect-number">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/perfect-number.PNG" alt="perfect-number">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 22: Reverse Delta </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/reverse-delta.PNG" alt="reverse-delta">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/reverse-delta.PNG" alt="reverse-delta">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 23: Fibonacci Series </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/fibonacci-series.PNG" alt="fibonacci">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/fibonacci-series.PNG" alt="fibonacci">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 24: Type-Casting </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/type-casting.PNG" alt="type-casting">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/type-casting.PNG" alt="type-casting">
 </div>
     
 </div>
