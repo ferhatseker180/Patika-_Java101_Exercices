@@ -22,32 +22,32 @@
 
 <div align="center">
     <h3 align="center">PROJECT 5: Compare Number </h3>
-    <img src="https://github.com/ferhatseker180/Patika-_Java101_Exercices/blob/master/src/Week1/Week1_Project_Images/compare-number.PNG" alt="compare-number">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/compare-number.PNG" alt="compare-number">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 6: Find Your Horoscope </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/horoscope.PNG" alt="horoscope">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/horoscope.PNG" alt="horoscope">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 7: Find Your Chinese Zodiac </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/chinese-zodiac.PNG" alt="chinese-zodiac">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 8: Check Leap Year </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/leap-year.PNG" alt="leap-year">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/leap-year.PNG" alt="leap-year">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 9 CO-WORK: Calculate Plane Price </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/plane-price.PNG" alt="plane-price">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/plane-price.PNG" alt="plane-price">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 10: Specific Mod Calculate With Loops </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/find-even-number.PNG" alt="mod-calculate">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/find-even-number.PNG" alt="mod-calculate">
 </div>
 
 <div align="center">
