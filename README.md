@@ -114,6 +114,11 @@
     <h3 align="center">PROJECT 23: Fibonacci Series </h3>
     <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/fibonacci-series.PNG" alt="fibonacci">
 </div>
+
+<div align="center">
+    <h3 align="center">PROJECT 24: Type-Casting </h3>
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/type-casting.PNG" alt="type-casting">
+</div>
     
 </div>
 
