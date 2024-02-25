@@ -1,5 +1,5 @@
 # <div align="center">Patika+ Backend Development Java 101 Exercises</div>
-### <div align="center">WEEK 1 Exercises</div>
+### <div align="center">Week 1 Exercises</div>
 ---
 <div align="center">
     <h3 align="center">PROJECT 1: Calculating Machine</h3>
