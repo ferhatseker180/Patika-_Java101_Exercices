@@ -77,27 +77,27 @@
 
 <div align="center">
     <h3 align="center">PROJECT 16: Making Diamond With Stars </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/build-star-delta.PNG" alt="diamond-stars">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/build-star-delta.PNG" alt="diamond-stars">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 17:Armstrong Number </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/armstrong-number.PNG" alt="armstrong-number">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/armstrong-number.PNG" alt="armstrong-number">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 18: ATM Project </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/atm-project.PNG" alt="bank-atm">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/atm-project.PNG" alt="bank-atm">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 19: EBOB-EKOK </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/ebob-ekok.PNG" alt="ebob-ekok">
 </div>
 
 <div align="center">
     <h3 align="center">PROJECT 20: Find Min And Max Value </h3>
-    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Project_Images/min-max.PNG" alt="min-max">
+    <img src="https://raw.githubusercontent.com/ferhatseker180/Patika-_Java101_Exercices/master/src/Week1/Week1_Project_Images/min-max.PNG" alt="min-max">
 </div>
 
 <div align="center">
